@@ -1,1 +1,0 @@
-deneme amaçlı döküman
