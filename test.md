@@ -1,5 +1,5 @@
 # Anadil III Server – Faz 1
-
+1906
 Bu sunucu uygulaması, ERP ürünümüzün çeşitli JSON API hizmetleri sağlayabilmesi için gerçekleştirilmiştir.
 
 Anadil III çalışmaları kapsamında gerçekleştirilen bu uygulamada, MS SQL Server temel alınmıştır. Veritabanı bağımsızlığı, ORM kütüphanesi gibi özellikler şimdilik kullanılmamıştır.
