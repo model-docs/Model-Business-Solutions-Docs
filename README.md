@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1220,35:1E3A8A,70:2563EB,100:38BDF8&text=Model%20Bilgi%20İşlem&fontColor=FFFFFF&fontSize=44&fontAlignY=36&desc=Enterprise%20ERP%20%7C%20Business%20Applications%20%7C%20Digital%20Transformation&descAlignY=58&descSize=16" alt="Model Bilgi İşlem GitHub Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:8B0D12,35:C91820,70:EC1E25,100:FF5A5F&text=Model%20Docs&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Documentation%20Hub%20%7C%20Developer%20Guides%20%7C%20Knowledge%20Base&descAlignY=58&descSize=16" alt="Model Docs GitHub Banner" />
 </p>
 
 <h1 align="center">Model Bilgi İşlem</h1>
