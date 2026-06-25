@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:8B0D12,35:C91820,70:EC1E25,100:FF5A5F&text=Model%20Docs&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Documentation%20Hub%20%7C%20Developer%20Guides%20%7C%20Knowledge%20Base&descAlignY=58&descSize=16" alt="Model Docs GitHub Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:8B0D12,35:C91820,70:EC1E25,100:e43034&text=Model%20Docs&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Documentation%20Hub%20%7C%20Developer%20Guides%20%7C%20Knowledge%20Base&descAlignY=58&descSize=16" alt="Model Docs GitHub Banner" />
 </p>
 
 <h1 align="center">Model Bilgi İşlem</h1>
@@ -497,5 +497,5 @@ Web: `https://www.mbi.com.tr/`
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:38BDF8,50:2563EB,100:0B1220" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:8B0D12,35:C91820,70:EC1E25,100:e43034" alt="Footer" />
 </p>
